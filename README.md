@@ -30,9 +30,9 @@ I'm a hard-working and passionate developer with a love for making things look g
 
 ## 📊 GitHub Statistics
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: flex-start;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marelilourens&show_icons=true&locale=en" alt="marelilourens" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MareliLourens&amp;theme=default&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MareliLourens&amp;theme=default&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
 </div>
 
 ## 💻 My skills
