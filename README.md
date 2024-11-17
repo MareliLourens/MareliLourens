@@ -39,7 +39,7 @@ I'm a hard-working and passionate developer with a love for making things look g
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; max-width: 200px;">
     <h3>Languages:</h3>
     <p style="display: flex; gap: 1rem; flex-wrap: wrap;">
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -63,7 +63,7 @@ I'm a hard-working and passionate developer with a love for making things look g
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; max-width: 200px;">
     <h3>Backend Development:</h3>
     <p>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -84,7 +84,7 @@ I'm a hard-working and passionate developer with a love for making things look g
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; max-width: 200px;">
     <h3>Cloud and Hosting:</h3>
     <p>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -99,7 +99,7 @@ I'm a hard-working and passionate developer with a love for making things look g
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; max-width: 200px;">
     <h3>Frontend Development:</h3>
     <p style="display: flex; gap: 1rem; flex-wrap: wrap;">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -120,7 +120,7 @@ I'm a hard-working and passionate developer with a love for making things look g
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; max-width: 200px;">
     <h3>Design and Development Tools:</h3>
     <p>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -135,7 +135,7 @@ I'm a hard-working and passionate developer with a love for making things look g
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; max-width: 200px;">
     <h3>Mobile Development:</h3>
     <p>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -147,7 +147,7 @@ I'm a hard-working and passionate developer with a love for making things look g
     </p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; max-width: 200px;">
     <h3>Version Control:</h3>
     <p>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
