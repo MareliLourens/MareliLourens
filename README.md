@@ -36,7 +36,7 @@ I'm a hard-working and passionate developer with a love for making things look g
 </div>
 
 ## 💻 My skills
-<div style= "max-height: 450;">
+
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
 
   <div style="flex: 1; max-width: 200px;">
@@ -155,7 +155,6 @@ I'm a hard-working and passionate developer with a love for making things look g
       </a>
     </p>
   </div>
-</div>
 </div>
 
 ## 🌐 Contact Me
